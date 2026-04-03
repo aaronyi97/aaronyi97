@@ -1,16 +1,18 @@
-## Hi there 👋
+# I can't write code. So I built a system where AI checks AI.
 
-<!--
-**aaronyi97/aaronyi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3 AI roles: one writes code, one reviews, one audits the reviewer.
 
-Here are some ideas to get you started:
+The auditor has caught 6 "looks good" that weren't. So far.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+40 days. Zero programming background. One multi-model AI orchestration system.
+
+Built by directing AI, not by writing code.
+
+---
+
+**Currently building:** [Synthora](https://synthora-web.pages.dev) — a multi-model AI system that thinks with 15 models, not just one.
+
+**Writing about it:** [Substack](https://substack.com/@aaronyi97) | [X/Twitter](https://x.com/AaronYiaazw)
+
