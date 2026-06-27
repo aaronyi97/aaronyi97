@@ -5,6 +5,8 @@ I started AI coding with zero traditional programming background.
 That forced me to learn the hard problem early:
 AI can generate work fast, but without evidence, review, supervision, handoff, and human decision points, the workflow breaks.
 
+DoneTrace is the formal product name for the system below.
+
 I build local-first systems for AI Workflow Diagnostics:
 - fake done
 - lost context
