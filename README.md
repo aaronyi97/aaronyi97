@@ -26,3 +26,5 @@ Send me one workflow, one failed AI task, or one place where your AI process kee
 I’ll tell you where I think it breaks.
 
 No live call required.
+
+Start here: [Request a workflow teardown](https://github.com/aaronyi97/ai-collab-open-system/issues/1).
