@@ -1,5 +1,7 @@
 # Aaron Yi — AI Workflow Diagnostics
 
+**If you build with AI, the workflow breaks in places you don’t see — work marked “done” that isn’t, context quietly lost, reviews that rubber-stamp. I find those breaks. I build local-first tools to catch them.**
+
 I started AI coding with zero traditional programming background.
 
 That forced me to learn the hard problem early:
