@@ -2,9 +2,6 @@
 
 **If you build with AI, the workflow breaks in places you don’t see — work marked “done” that isn’t, context quietly lost, reviews that rubber-stamp. I find those breaks. I build local-first tools to catch them.**
 
-I started AI coding with zero traditional programming background.
-
-That forced me to learn the hard problem early:
 AI can generate work fast, but without evidence, review, supervision, handoff, and human decision points, the workflow breaks.
 
 DoneTrace is the formal product name for the system below.
